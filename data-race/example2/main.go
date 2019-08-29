@@ -25,6 +25,8 @@ func main() {
 				// increase
 				value++
 
+				fmt.Println(value)
+
 				// set to memory
 				counter = value
 			}

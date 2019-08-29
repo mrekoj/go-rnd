@@ -6,7 +6,6 @@
 *.dll
 *.so
 *.dylib
-rogo-gateway
 
 # Test binary, build with `go test -c`
 *.test
@@ -17,4 +16,3 @@ rogo-gateway
 # IntelliJ IDE
 *.iml
 *.idea
-/logs
